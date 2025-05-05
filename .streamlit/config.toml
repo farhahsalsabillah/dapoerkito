@@ -1,0 +1,6 @@
+[theme]
+base="light"  # Use light mode
+primaryColor="#A8E6CF"  # Pastel green for primary elements (buttons, highlights)
+backgroundColor="#E8F5E9"  # Very light pastel green background
+secondaryBackgroundColor="#C8E6C9"  # White for sidebar
+textColor="#333333"  # Dark gray text
